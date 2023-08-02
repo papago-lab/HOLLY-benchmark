@@ -39,7 +39,7 @@ We also provide train/validation examples for developing homograph disambiguatio
 
 
 ### License 
-Licensed under [CC BY-SA KR 2.0](https://stdict.korean.go.kr/join/copyrightPolicy.do)
+Licensed under [CC BY-SA KR 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 ```
 HOLLY-benchmark
 Copyright (c) 2023-present NAVER Cloud Corp.
